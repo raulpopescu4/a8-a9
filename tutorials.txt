@@ -1,0 +1,10 @@
+How to create a cpp file,Indian Number 1,32,45,0,https://www.youtube.com/watch?v=cueohlo7dZs
+How to run a cpp file,Indian Number 2,12,44,12,https://www.youtube.com/watch?v=ej2tuTIcUys
+How to delete a cpp file,Indian Number 4,44,41,0,https://www.youtube.com/watch?v=fj2taTIcUys
+How to download Clion,Indian Number 2,1,22,34,https://www.youtube.com/watch?v=fj2tuRIcUys
+How to use VS Code,Indian Number 1,55,55,66,https://www.youtube.com/watch?v=fj2tuDHcUys
+How to use Visual Studio,Indian Number 3,13,11,45,https://www.youtube.com/watch?v=fj7tuTIcUys
+How to build a game with cpp,Indian Number 1,7,3,0,https://www.youtube.com/watch?v=fj2tuTIcMys
+How to pass a cpp interview,Indian Number 4,34,3,69,https://www.youtube.com/watch?v=fj2tuQIcUys
+How to get a cpp internship,Indian Number 6,33,4,420,https://www.youtube.com/watch?v=fj2tuKIcUys
+How to free memory in cpp,Indian Number 2,23,9,0,https://www.youtube.com/watch?v=fj2tuWIcUys
